@@ -1,0 +1,5 @@
+# Homework 02
+1. [List Comprehension to create boolean values self.values is equal to scalar](https://github.com/nyu-csci-ua-0479-001-spring-2023/homework02-wangamb0212/blob/0581d4e672f189c578169cfba57bf6dadaec1348/nelta.py#L81)
+2. [List Comprehension to create boolean values self.values is NOT equal to scalar](https://github.com/nyu-csci-ua-0479-001-spring-2023/homework02-wangamb0212/blob/0581d4e672f189c578169cfba57bf6dadaec1348/nelta.py#L85)
+3. [List Comprehension to create boolean values self.values is greater than scalar](https://github.com/nyu-csci-ua-0479-001-spring-2023/homework02-wangamb0212/blob/0581d4e672f189c578169cfba57bf6dadaec1348/nelta.py#L89)
+4. [List Comprehension to create boolean values self.values is less than scalar](https://github.com/nyu-csci-ua-0479-001-spring-2023/homework02-wangamb0212/blob/0581d4e672f189c578169cfba57bf6dadaec1348/nelta.py#L93)
